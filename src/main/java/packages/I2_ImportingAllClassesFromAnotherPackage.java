@@ -1,4 +1,4 @@
-package packages.utils;
+package packages;
 
 // Importing all classes from package `packages.utils.string`
 import packages.utils.string.*;

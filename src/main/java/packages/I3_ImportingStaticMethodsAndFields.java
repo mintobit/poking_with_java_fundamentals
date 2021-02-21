@@ -1,4 +1,4 @@
-package packages.utils;
+package packages;
 
 import static packages.utils.string.PrependRandomNumber.*;
 

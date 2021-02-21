@@ -1,4 +1,4 @@
-package packages.utils;
+package packages;
 
 // Importing the class so that it is accessible by classname without package name
 import packages.utils.string.ToUpper;

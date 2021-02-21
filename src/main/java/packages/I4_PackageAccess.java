@@ -1,4 +1,4 @@
-package packages.utils;
+package packages;
 
 import packages.utils.integer.Multiply;
 
